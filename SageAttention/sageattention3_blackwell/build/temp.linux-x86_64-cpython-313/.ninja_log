@@ -1,3 +1,0 @@
-# ninja log v7
-0	107043	1762694408348666607	/home/ubuntu/SageAttention/sageattention3_blackwell/build/temp.linux-x86_64-cpython-313/sageattn3/blackwell/api.o	7ad03c311ef16823
-2	32986	1762694518844770460	/home/ubuntu/SageAttention/sageattention3_blackwell/build/temp.linux-x86_64-cpython-313/sageattn3/quantization/fp4_quantization_4d.o	f84bf6c31d706470
